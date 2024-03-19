@@ -13,10 +13,10 @@ export default function About() {
                 <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 className="section-title bg-white text-start text-primary pe-3">About Us</h6>
                     <h1 className="mb-4">Welcome to pHOENIX</h1>
-                    <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.</p>
-                    <p className="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
+                    <p className="mb-4">Welcome to your Spoken English Institute, where education reigns supreme and compromise is not an option. As a registered institution, we stand as the oldest and most trusted Institute here at Kakdwip, with a legacy of excellence spanning over eight years in modern education.</p>
+                    <p className="mb-4">At our institute, every day is a fun day, as we believe in joyful learning experiences that not only educate but also inspire. Our fully trained faculty ensures that each student receives personalized attention and guidance, fostering an environment where imagination meets reality through the use of rejectors to make learning truly immersive.</p>
                     <div className="row gy-2 gx-4 mb-4">
-                        <div className="col-sm-6">
+                        {/* <div className="col-sm-6">
                             <p className="mb-0"><i className="fa fa-arrow-right text-primary me-2"></i>Skilled Instructors</p>
                         </div>
                         <div className="col-sm-6">
@@ -33,9 +33,10 @@ export default function About() {
                         </div>
                         <div className="col-sm-6">
                             <p className="mb-0"><i className="fa fa-arrow-right text-primary me-2"></i>International Certificate</p>
-                        </div>
+                        </div> */}
+                        <p> We take pride in our track record of success, with more than 20 students securing jobs after completing our programs. With a commitment to quality education and a dedication to nurturing talent, we strive to empower individuals with the skills and confidence they need to excel in the world of spoken English.</p>
                     </div>
-                    <a className="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+                    <a className="btn btn-primary py-3 px-5 mt-2" href="">Join us on this journey of joyful learning and unlock your full potential with the guidance of Kakdwip's premier Spoken English Institute.</a>
                 </div>
             </div>
         </div>
