@@ -18,7 +18,7 @@ export default function Contact() {
                     </div>
                     <div class="ms-3">
                         <h5 class="text-primary">Office</h5>
-                        <p class="mb-0">123 Street, New York, USA</p>
+                        <p class="mb-0">2nd floor,Dhananjoy villa,Near young-staff more.</p>
                     </div>
                 </div>
                 <div class="d-flex align-items-center mb-3">
@@ -27,7 +27,7 @@ export default function Contact() {
                     </div>
                     <div class="ms-3">
                         <h5 class="text-primary">Mobile</h5>
-                        <p class="mb-0">+012 345 67890</p>
+                        <p class="mb-0">+09734499938</p>
                     </div>
                 </div>
                 <div class="d-flex align-items-center">
@@ -36,13 +36,13 @@ export default function Contact() {
                     </div>
                     <div class="ms-3">
                         <h5 class="text-primary">Email</h5>
-                        <p class="mb-0">info@example.com</p>
+                        <p class="mb-0">contactmainphoenix@gmail.com</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <iframe class="position-relative rounded w-100 h-100"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                    src="https://www.google.com/maps/place/Ganespur,+West+Bengal+743347/@21.8721148,88.185993,19z/data=!3m1!4b1!4m6!3m5!1s0x3a02556abfc254c7:0x2fa783db1df12009!8m2!3d21.8721136!4d88.1866367!16s%2Fg%2F11m343x45v?entry=ttu"
                     frameborder="0" style={{minHeight: '300px', border:'0'}} allowfullscreen="" aria-hidden="false"
                     tabindex="0"></iframe>
             </div>
