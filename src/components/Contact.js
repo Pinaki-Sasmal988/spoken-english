@@ -42,7 +42,7 @@ export default function Contact() {
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <iframe class="position-relative rounded w-100 h-100"
-                    src="https://www.google.com/maps/place/Ganespur,+West+Bengal+743347/@21.8721148,88.185993,19z/data=!3m1!4b1!4m6!3m5!1s0x3a02556abfc254c7:0x2fa783db1df12009!8m2!3d21.8721136!4d88.1866367!16s%2Fg%2F11m343x45v?entry=ttu"
+                    src="https://www.google.com/maps/embed?pb=!3m1!4b1!4m6!3m5!1s0x3a02556abfc254c7:0x2fa783db1df12009!8m2!3d21.8721136!4d88.1866367!16s%2Fg%2F11m343x45v?entry=ttu"
                     frameborder="0" style={{minHeight: '300px', border:'0'}} allowfullscreen="" aria-hidden="false"
                     tabindex="0"></iframe>
             </div>

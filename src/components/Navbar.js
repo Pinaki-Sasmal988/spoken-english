@@ -25,14 +25,14 @@ export default function Navbar() {
         </button>
         <div className="collapse navbar-collapse" id="navbarCollapse">
             <div className="navbar-nav ms-auto p-4 p-lg-0">
-                <Link to="/" className="nav-item nav-link active">Home</Link>
-                <Link to="/about" className="nav-item nav-link">About</Link>
-                <Link to="courses.html" className="nav-item nav-link">Courses</Link>
+                <a href="/" className="nav-item nav-link active">Home</a>
+                <a href="/about" className="nav-item nav-link">About</a>
+                <a href="courses.html" className="nav-item nav-link">Courses</a>
                 <div className="nav-item dropdown">
                     <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div className="dropdown-menu fade-down m-0">
-                        <Link to="/faculty" className="dropdown-item">Faculties</Link>
-                        <Link to="gallary" className="dropdown-item">Gallary</Link>
+                        <a href="/faculty" className="dropdown-item">Faculties</a>
+                        <a href="gallary" className="dropdown-item">Gallary</a>
                         <a href="404.html" className="dropdown-item">404 Page</a>
                     </div>
                 </div>
